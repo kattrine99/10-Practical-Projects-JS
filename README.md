@@ -7,5 +7,5 @@ This is a mini summer challenge where I'll be creating and submitting a series o
 
 <ul><li><b>Project 1</b>: To-Do List 📝</li>
     <li><b>Project 2</b>: Take Notes 📒</li>
-    <li><b>Project 2</b>: Password strength checker 🔑</li>
+    <li><b>Project 3</b>: Password strength checker 🔑</li>
 </ul>
