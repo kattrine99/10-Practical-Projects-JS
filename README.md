@@ -6,5 +6,8 @@ This is a mini summer challenge where I'll be creating and submitting a series o
 ~ I'll update the project list as I create each new project. 😁 
 
 <ul><li><b>Project 1</b>: To-Do List 📝</li>
-    <li><b>Project 2</b>: Take Notes 📝</li>
+    <li><b>Project 2</b>: Take Notes 📒</li>
+    <li><b>Project 3</b>: Password strength checker 🔑</li>
+    <li><b>Project 4</b>: Digital Piano app 🔑</li>
+
 </ul>
