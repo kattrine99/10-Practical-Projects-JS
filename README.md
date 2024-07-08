@@ -11,6 +11,7 @@ This is a mini summer challenge where I'll be creating and submitting a series o
     <li><b>Project 4</b>: Digital Piano app 🎹</li>
     <li><b>Project 5</b>: Change Bg Color 🎨</li>
     <li><b>Project 6</b>: HEX Color Generator 🎨</li>
+    <li><b>Project 7</b>: Vowel Counter 🔢</li>
 
 
 </ul>
