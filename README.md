@@ -14,5 +14,6 @@ This is a mini summer challenge where I'll be creating and submitting a series o
     <li><b>Project 7</b>: Vowel Counter 🔢</li>
     <li><b>Project 8</b>: Random Paragraph generator 📃</li>
     <li><b>Project 9</b>: Random Password Generator 🔑 </li>
+     <li><b>Project 10</b>: Age Calculator 🔑 </li>
 
 </ul>
